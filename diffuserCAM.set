@@ -1,0 +1,24 @@
+                 ~~~~~ A HAWK RIDGE SYSTEMS POST ~~~~~
+                        ~~~~~ SETUP SHEET ~~~~~
+
+PROGRAM NUMBER:     O1 
+POSTED DATE & TIME: 04- 29- 2024  -  23:27:20 
+MODEL FILENAME:     DIFFUSERCAM.SLDPRT 
+PROGRAM FILENAME:   DIFFUSERCAM 
+MACHINE:            HAAS MILL4 NEXTGEN 
+CONTROLLER:         HAAS NEXGEN 
+EST. MACHINE TIME:  0 HRS.  26 MIN.  18 SEC. )
+_________________________________________________________________________
+
+TOOL           TOOL             MAX      STICK    MAX    MAX      MAX
+NUM        DESCRIPTION       CUT DEPTH    OUT     RPM   ZFEED   XY FEED
+----  --------------------   ---------  ------  ------ -------  -------
+T04   3/4 EM CRB 2FL 1-1/2   -0.3772   +2.5000   3977  5.       21.479
+      LOC
+T01   1/4 EM CRB 2FL 3/4  L  -0.8000   +1.0000   12000 16.2     64.8
+      OC
+T02   4.0MM SCREW MACH DRILL -1.1953   +1.2500   12000 43.2     0.
+T21   11/16 SCREW MACH DRILL -1.1272   +4.0000   5444  28.8576  0.
+_________________________________________________________________________
+____________________________________
+TOTAL TOOLS:04
